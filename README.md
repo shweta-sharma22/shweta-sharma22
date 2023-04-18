@@ -1,4 +1,4 @@
-
+![github banner](https://user-images.githubusercontent.com/83970771/232820097-77725967-0352-448b-bd32-2c4d0f17dd78.gif)
 
 <h1 align="center">Hello 👋 I'm Shweta Sharma</h1>
 <h3> Eat, Sleep, Code, Repeat🤓 </h3>
