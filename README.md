@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my **Full Stack Web Development Skills**
 
-- 🌱 I’m currently learning **Data Science and Back-end Development**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 🥰 Hobbies -  **When I am not coding, you can find me with a book📖**
 
