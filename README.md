@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-sharma22&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-sharma22" /> </p>
 
-- 🔭 I’m currently working on my **Full Stack Web Development Skills**
+- 🔭 I’m currently working on my **Data Analysis Skills**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
